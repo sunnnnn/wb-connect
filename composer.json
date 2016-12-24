@@ -1,6 +1,6 @@
 {
-    "name": "sunnnnn/qq-connect",
-    "description": "qq connect",
+    "name": "sunnnnn/wb-connect",
+    "description": "weibo connect",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "sunnnnn\\qqconnect\\": "src/"
+            "sunnnnn\\wbconnect\\": "src/"
         }
     }
 }
